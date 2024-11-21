@@ -1,2 +1,5 @@
-# gobyexample.com_range
-Go by Example: Range
+# gobyexample.com: Go by Example: Range
+
+## Reference
+
+- https://gobyexample.com/range
